@@ -1,1 +1,15 @@
-# AwesomeCheatSheets
+# Awesome Cheat Sheets
+
+- [Does async/await block JavaScript main thread?](https://medium.com/geekculture/does-async-await-block-javascript-main-thread-c07db9c48c3e)
+- [Use Git like a senior engineer](https://levelup.gitconnected.com/use-git-like-a-senior-engineer-ef6d741c898e)
+- [How to query a JSON array of objects as a recordset in PostgreSQL](https://levelup.gitconnected.com/how-to-query-a-json-array-of-objects-as-a-recordset-in-postgresql-a81acec9fbc5)
+- [How to debounce/throttle a callback with React Hooks](https://medium.com/programming-essentials/how-to-debounce-throttle-a-callback-with-react-hooks-deb26b2fd7c)
+- [JavaScript Symbols: But Why?](https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c)
+- [4 Practical Use Cases for IIFEs in JavaScript](https://javascript.plainenglish.io/4-practical-use-cases-for-iifes-in-javascript-6481dcb0ba7d)
+- [Oh, Stop Using Builder](https://medium.com/gitrebase/oh-stop-using-builder-9061a5911d8c)
+- [Connect to MySQL Running in Docker Container from a Local Machine](https://towardsdatascience.com/connect-to-mysql-running-in-docker-container-from-a-local-machine-6d996c574e55)
+- [7 ES6 Spread Operator Tricks Every Developer Should Know](https://fatfish.medium.com/7-es6-spread-operator-tricks-every-developer-should-know-5d947e711c04)
+- [Django Model Best Practices](https://medium.com/@schopade333/django-model-best-practices-c5c8a142dfc)
+- [Tutorials Teacher](https://www.tutorialsteacher.com/)
+- [How to Use the Magical `staticmethod`, `classmethod`, and `property` Decorators in Python](https://betterprogramming.pub/how-to-use-the-magical-staticmethod-classmethod-and-property-decorators-in-python-e42dd74e51e7)
+- [Public, Private, and Protected Access Modifiers in Python](https://betterprogramming.pub/public-private-and-protected-access-modifiers-in-python-9024f4c1dd4)
