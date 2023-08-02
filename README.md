@@ -13,3 +13,4 @@
 - [Tutorials Teacher](https://www.tutorialsteacher.com/)
 - [How to Use the Magical `staticmethod`, `classmethod`, and `property` Decorators in Python](https://betterprogramming.pub/how-to-use-the-magical-staticmethod-classmethod-and-property-decorators-in-python-e42dd74e51e7)
 - [Public, Private, and Protected Access Modifiers in Python](https://betterprogramming.pub/public-private-and-protected-access-modifiers-in-python-9024f4c1dd4)
+- [Custom User Authentication with Simple JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful/qVAmoArABVr)
