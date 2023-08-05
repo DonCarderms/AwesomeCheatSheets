@@ -18,3 +18,7 @@
 - [React in 2023 and Beyond](https://adhithiravi.medium.com/react-in-2023-and-beyond-a09bdbdc9ff1)
 - [Managing Types in React + TypeScript the Right Way](https://levelup.gitconnected.com/managing-types-in-react-typescript-the-right-way-fa1ecc50a2bf)
 - [Mastering React Custom Hooks](https://medium.com/@maw1a/mastering-react-custom-hooks-2954d62181e)
+- [Stop Passing Props Between React Components: Apply Composition Pattern](https://medium.com/@flavtech/stop-passing-props-between-react-components-apply-composition-pattern-15b132bf0686)
+- [Awesome Python Scripts](https://medium.com/@dmitrijkumancev571/awesome-python-scripts-6711873a35c3)
+- [How to Use React Query, Axios, and a Custom Request Processor to Transform Your Data](https://medium.com/@amavictor/how-to-use-react-query-axios-and-a-custom-request-processor-to-transform-your-data-2a9f0c9f5bf0)
+- [The Best GitHub Repositories for Django Developers](https://medium.com/@dmitrijkumancev571/the-best-github-repositories-for-django-developers-2c3c41088f6a)
