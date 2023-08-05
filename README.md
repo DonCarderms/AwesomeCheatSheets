@@ -14,3 +14,7 @@
 - [How to Use the Magical `staticmethod`, `classmethod`, and `property` Decorators in Python](https://betterprogramming.pub/how-to-use-the-magical-staticmethod-classmethod-and-property-decorators-in-python-e42dd74e51e7)
 - [Public, Private, and Protected Access Modifiers in Python](https://betterprogramming.pub/public-private-and-protected-access-modifiers-in-python-9024f4c1dd4)
 - [Custom User Authentication with Simple JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful/qVAmoArABVr)
+- [TypeScript Generics Cheat Sheet](https://ts.chibicode.com/generics/)
+- [React in 2023 and Beyond](https://adhithiravi.medium.com/react-in-2023-and-beyond-a09bdbdc9ff1)
+- [Managing Types in React + TypeScript the Right Way](https://levelup.gitconnected.com/managing-types-in-react-typescript-the-right-way-fa1ecc50a2bf)
+- [Mastering React Custom Hooks](https://medium.com/@maw1a/mastering-react-custom-hooks-2954d62181e)
