@@ -22,3 +22,5 @@
 - [Awesome Python Scripts](https://medium.com/@dmitrijkumancev571/awesome-python-scripts-6711873a35c3)
 - [How to Use React Query, Axios, and a Custom Request Processor to Transform Your Data](https://medium.com/@amavictor/how-to-use-react-query-axios-and-a-custom-request-processor-to-transform-your-data-2a9f0c9f5bf0)
 - [The Best GitHub Repositories for Django Developers](https://medium.com/@dmitrijkumancev571/the-best-github-repositories-for-django-developers-2c3c41088f6a)
+- [Django API Polls Tutorial - More Views and Viewsets](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/more-views-and-viewsets.html)
+- [Django ORM Cookbook - Function Expressions](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/func_expressions.html?highlight=Coalesce)
