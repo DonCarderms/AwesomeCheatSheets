@@ -24,3 +24,4 @@
 - [The Best GitHub Repositories for Django Developers](https://medium.com/@dmitrijkumancev571/the-best-github-repositories-for-django-developers-2c3c41088f6a)
 - [Django API Polls Tutorial - More Views and Viewsets](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/more-views-and-viewsets.html)
 - [Django ORM Cookbook - Function Expressions](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/func_expressions.html?highlight=Coalesce)
+- https://bestofjs.org/projects/react-sortable-tree
